@@ -1,4 +1,4 @@
-module github.com/hertz-contrib/websocket
+module github.com/MarkDin/websocket
 
 go 1.16
 
